@@ -17,9 +17,9 @@ ChatGPT：
 - Faça um artigo técnico falando sobre unity e desenvolvimento de jogos
 
 Lexica.art：
-- No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
+- No léxica utilizamos o acervo público de imagens geradas por outras pessoas, o termo de pesquisa que utilizei foi:
 
-• Jogos
+  • Jogos
 
 
 ## ✨ Features
