@@ -14,7 +14,7 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 
 ChatGPT：
--
+- Faça um artigo técnico falando sobre unity e desenvolvimento de jogos
 
 Lexica.art：
 - No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
